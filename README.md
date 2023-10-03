@@ -41,7 +41,7 @@ npm start
 
 #### Walkthrough Video
 
-[Click me to see the demo video!](add link)
+[Click me to see the demo video!]((https://drive.google.com/file/d/115vyn-q0QSE0cwOlDA7eFCSAonXEq65f/view?usp=drive_link))
 
 #### Insomnia Screenshot
 
